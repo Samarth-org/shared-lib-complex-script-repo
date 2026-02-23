@@ -1,0 +1,1 @@
+console.log("Hello! This app is ready for migration.");
